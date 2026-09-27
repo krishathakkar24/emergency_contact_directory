@@ -1,0 +1,6 @@
+{
+  "name": "ResQ — Emergency Contact Directory",
+  "description": "Emergency contact directory for disaster-prone areas to swiftly locate verified medical, rescue, shelter, food, and helpline services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
